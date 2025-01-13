@@ -1,4 +1,4 @@
-Hello, I'm Loma.
+Hello, I'm Loma
 =====================
 
 I'm a freelance developer.
