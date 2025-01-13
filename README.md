@@ -1,4 +1,4 @@
-Hi 👋 My name is Loma
+Hello, I'm Loma.
 =====================
 
 I'm a freelance developer.
