@@ -33,11 +33,11 @@ Welcome to my GitHub playground! This profile is mostly filled with experimental
 
 ---
 
-### 📊 GitHub Stats & Real-Time Top Languages
+### 📊 GitHub Stats & Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirapongSrijanyoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Loma's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirapongSrijanyoo&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.api.lxsmnsyc.dev/api?username=jirapongSrijanyoo&show_icons=true&theme=dark&hide_border=true" alt="Loma's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.api.lxsmnsyc.dev/api/top-langs/?username=jirapongSrijanyoo&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 ---
