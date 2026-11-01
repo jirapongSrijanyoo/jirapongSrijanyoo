@@ -9,7 +9,7 @@ Welcome to my GitHub playground! This profile is mostly filled with experimental
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Frameworks & Libraries -->
+  <!-- Frameworks & Languages -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -25,7 +25,7 @@ Welcome to my GitHub playground! This profile is mostly filled with experimental
 
   <br />
 
-  <!-- AI & Tools -->
+  <!-- AI & Editors -->
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Antigravity IDE" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudio-code&logoColor=white" alt="VS Code" />
@@ -36,8 +36,8 @@ Welcome to my GitHub playground! This profile is mostly filled with experimental
 ### 📊 GitHub Stats & Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.api.lxsmnsyc.dev/api?username=jirapongSrijanyoo&show_icons=true&theme=dark&hide_border=true" alt="Loma's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.api.lxsmnsyc.dev/api/top-langs/?username=jirapongSrijanyoo&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jirapongSrijanyoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Loma's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jirapongSrijanyoo&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -55,6 +55,6 @@ Welcome to my GitHub playground! This profile is mostly filled with experimental
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/jirapongSrijanyoo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Followers-jirapongSrijanyoo-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/jirapongSrijanyoo?logo=github&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Followers" />
   </a>
 </p>
